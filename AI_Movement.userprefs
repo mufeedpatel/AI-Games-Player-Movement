@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/movement-ai/Assets/unity-movement-ai/Scripts/ColAvoidUnit.cs">
+    <Files>
+      <File FileName="Assets/movement-ai/Assets/unity-movement-ai/Scripts/WallAvoidanceUnit.cs" Line="18" Column="41" />
+      <File FileName="Assets/movement-ai/Assets/unity-movement-ai/Scripts/FlockingUnit.cs" Line="10" Column="26" />
+      <File FileName="Assets/movement-ai/Assets/unity-movement-ai/Scripts/ColAvoidUnit.cs" Line="33" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
